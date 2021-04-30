@@ -1,9 +1,4 @@
 import tkinter as tk
-
-#Erick Alejandro Ramírez González A01637436
-#Juan Antonio Hernández Ruiz A01638014
-#Gael Nicolas Duncan Castillo A01637417
-
 #used with https://world.openfoodfacts.org/
 
 root = tk.Tk()
